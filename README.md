@@ -13,6 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### ✨ *hiya* ✨ 
-
-check out my stuff
+### ✨*hiya*✨ 
