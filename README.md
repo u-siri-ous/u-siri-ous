@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 -->
 
 ### ✨*hiya*✨ 
+
+![snek](https://github.com/u-siri-ous/u-siri-ous/blob/output/github-contribution-grid-snake.gif)
